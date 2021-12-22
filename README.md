@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seraphic8
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Front end
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on site/apps
 - 📫 How to reach me ...
 
 <!---
